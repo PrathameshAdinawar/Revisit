@@ -78,4 +78,4 @@ const govScheme = {
 
 // quick way to convert it to number
 console.log(+govScheme);// 88
-console.log(`${govScheme}`);// PM kisan Yojna
+console.log(`${govScheme}`);// PM kisan Yojna 
